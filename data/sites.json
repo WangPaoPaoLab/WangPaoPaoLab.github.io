@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-16",
+
+  "categories": [
+    { "id": "site", "en": "Websites",    "zh": "网站" },
+    { "id": "tool", "en": "Tools",       "zh": "工具" },
+    { "id": "game", "en": "Games",       "zh": "小游戏" },
+    { "id": "doc",  "en": "Docs",        "zh": "文档" },
+    { "id": "lab",  "en": "Experiments", "zh": "实验" }
+  ],
+
+  "sites": [
+    {
+      "title": { "en": "This index", "zh": "本站索引" },
+      "desc": {
+        "en": "The page you are looking at — a hand-picked hub for the sites I build. This entry is a template: copy it, swap in your own site, and delete it whenever you like.",
+        "zh": "你正在看的这个页面 —— 我手工挑选的站点总入口。这条是示例模板：复制一份、换成你自己的网址，之后想删掉也行。"
+      },
+      "url": "https://wangpaopaolab.github.io",
+      "repo": "https://github.com/WangPaoPaoLab/WangPaoPaoLab.github.io",
+      "category": "site",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "status": "live",
+      "icon": "🧭",
+      "featured": true
+    }
+  ]
+}
